@@ -8,3 +8,5 @@ Three codes are present here
  Following packages are required -
  1. dlib and dependencies
  2. opencv2 and dependencies
+
+Using 68 Facial Landmarks .dat file
